@@ -3,13 +3,13 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - python=3.11
   - ipykernel
   - ipython
   - ipywidgets
   - jupyter
   - matplotlib=3.9
   - numpy=1.26
-  - python
   - requests=2.32
   - scikit-learn
   - scipy=1.13
